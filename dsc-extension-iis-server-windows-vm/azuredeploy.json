@@ -15,14 +15,14 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "iis",
+      "defaultValue": "iiskzwerkend",
       "metadata": {
         "description": "Name of the VM"
       }
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_A2_v2",
+      "defaultValue": "Standard_B2MS",
       "metadata": {
         "description": "Size of the VM"
       }
